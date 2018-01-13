@@ -1,13 +1,13 @@
 # These and other macros are documented in dhd/droid-hal-device.inc
 
-%define device jfltexx
+%define device zeroltexx
 %define vendor samsung
 %define vendor_pretty Samsung
-%define device_pretty Galaxy S4 intl LTE
+%define device_pretty Galaxy S6 Edge intl LTE
 
 %define installable_zip 1
 
-# Entries migrated from the old rpm/droid-hal-jflte.spec
+# Entries migrated from the old rpm/droid-hal-zerolte.spec
 %define android_config \
 #define QCOM_BSP 1\
 %{nil}
